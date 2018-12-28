@@ -35,6 +35,7 @@ Website for Hotels, it's a dummy design for home page.
 ## Screenshots
 
 - **Home Page Image** 
+<img src="https://github.com/pras75299/hoteldesign-home/blob/master/img/sshome.jpg" width="50%" height="50%"/>
 
 
 
